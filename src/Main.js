@@ -7,7 +7,7 @@ const Main = () => {
     return (
         <div style={{ backgroundColor: "#F7CAC9" }}>
             <Header />
-            <div className='container' style={{ backgroundColor: "#FFC0CB" }}>
+            <div className='container' style={{fontFamily:"roboto", backgroundColor: "#FFC0CB" }}>
                 <div className='row justify-content-around mt-3'>
                     <div className='col-4 my-2  col-lg-2  g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#F4C0FF" }} className="me-1  fa-solid fa-comment"></i> Realesed in June</div>
                     <div className='col-4 my-2   col-lg-1 g-0 d-flex align-items-center justify-content-center '><i className="me-1 text-warning fa-solid fa-bullhorn"></i>Restock</div>

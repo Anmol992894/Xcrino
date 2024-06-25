@@ -2,7 +2,7 @@ import React from 'react'
 import './style.css'
 const Footer = () => {
     return (
-        <div style={{backgroundColor:"#FFFDD0"}} className='p-5 my-4'>
+        <div style={{backgroundColor:"#FFFDD0", fontFamily:"roboto"}} className='p-5 my-4'>
             <div className='row'>
                 <div className=' col-4 d-flex flex-column align-items-between justify-content-between text-start'>
                     <div className='d-flex flex-column pt-5 '>

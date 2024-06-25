@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
     return (
-        <div>
+        <div style={{fontFamily:"roboto"}}>
             <nav className="navbar navbar-collapse-sm bg-white">
                 <div className='container'>
                 <div className='row d-flex justify-content-between'>
