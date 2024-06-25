@@ -9,13 +9,13 @@ const Main = () => {
             <Header />
             <div className='container' style={{fontFamily:"roboto", backgroundColor: "#FFC0CB" }}>
                 <div className='row justify-content-around mt-3'>
-                    <div className='col-4 my-2  col-lg-2  g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#F4C0FF" }} className="me-1  fa-solid fa-comment"></i> Realesed in June</div>
-                    <div className='col-4 my-2   col-lg-1 g-0 d-flex align-items-center justify-content-center '><i className="me-1 text-warning fa-solid fa-bullhorn"></i>Restock</div>
-                    <div className='col-4 my-2  col-lg-2  g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#87CEEB" }} className="me-1  fa-solid fa-clock"></i>Ltd. Merchandise</div>
-                    <div className='col-4 my-2  col-lg-2  g-0 d-flex align-items-center justify-content-center '><i className="me-1 text-primary px-1 fa-solid fa-gift"></i>Made to Order<span className='m-1 dropdown-toggle'></span></div>
-                    <div className='col-4 my-2  col-lg-1 g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#FF8096" }} className="me-1  fa-solid fa-snowflake"></i>Character<span className='m-1 dropdown-toggle'></span></div>
-                    <div className='col-4 my-2  col-lg-2 g-0 d-flex align-items-center justify-content-center '><i className="me-1  text-primary fa-regular fa-file-lines"></i>Product Category<span className='m-1 dropdown-toggle'></span></div>
-                    <div className='col-12 my-2  col-lg-2 g-0 d-flex align-items-center justify-content-center '><i className="me-1  text-primary fa-solid fa-book"></i>List of special features</div>
+                    <div className='col-12 my-2 col-md-2  g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#F4C0FF" }} className="me-1  fa-solid fa-comment"></i> Realesed in June</div>
+                    <div className='col-12 my-2  col-md-1 g-0 d-flex align-items-center justify-content-center '><i className="me-1 text-warning fa-solid fa-bullhorn"></i>Restock</div>
+                    <div className='col-12 my-2 col-md-2  g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#87CEEB" }} className="me-1  fa-solid fa-clock"></i>Ltd. Merchandise</div>
+                    <div className='col-12 my-2  col-md-2  g-0 d-flex align-items-center justify-content-center '><i className="me-1 text-primary px-1 fa-solid fa-gift"></i>Made to Order<span className='m-1 dropdown-toggle'></span></div>
+                    <div className='col-12 my-2  col-md-1 g-0 d-flex align-items-center justify-content-center '><i style={{ color: "#FF8096" }} className="me-1  fa-solid fa-snowflake"></i>Character<span className='m-1 dropdown-toggle'></span></div>
+                    <div className='col-12 my-2  col-md-2 g-0 d-flex align-items-center justify-content-center '><i className="me-1  text-primary fa-regular fa-file-lines"></i>Product Category<span className='m-1 dropdown-toggle'></span></div>
+                    <div className='col-12 my-2  col-md-2 g-0 d-flex align-items-center justify-content-center '><i className="me-1  text-primary fa-solid fa-book"></i>List of special features</div>
                 </div>
                 <div className='mt-4 d-flex justify-content-between'>
                     <span className='bg-light rounded-circle p-1'><i className="fs-4 fa-solid fa-circle-half-stroke"></i></span>
